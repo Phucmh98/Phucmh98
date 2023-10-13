@@ -1,4 +1,6 @@
-![logo](https://github.com/Phucmh98/Phucmh98/blob/main/git-banner.jpg)
+<p align="center">
+  <img src="https://github.com/Phucmh98/Phucmh98/blob/main/git-banner.jpg" width="100%">
+</p>
 
 ### Hi there 👋
 
