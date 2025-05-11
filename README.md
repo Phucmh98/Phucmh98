@@ -1,5 +1,5 @@
 <div class="image-container">
-  <img src="https://github.com/Phucmh98/Phucmh98/blob/main/git-banner-2.png" alt="logo" class="image">  
+  <img src="https://github.com/Phucmh98/Phucmh98/blob/main/git-banner-3.png" alt="logo" class="image">  
 </div>
 <h1 align="center">Hi 👋, I'm Phuc</h1>
 <h3 align="center">I'm a Civil Engineer with a passion for coding</h3>
