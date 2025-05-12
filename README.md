@@ -1,14 +1,18 @@
 <div class="image-container">
   <img src="https://github.com/Phucmh98/Phucmh98/blob/main/git-banner-3.png" alt="logo" class="image">  
 </div>
-<h1 align="center">Hi 👋, I'm Phuc</h1>
-<h3 align="center">I'm a Civil Engineer with a passion for coding</h3>
-<h3 align="left">The place where my passion began:</h3>
+
+<h1 align="center">✨✨Front-End Developer✨✨</h1>
+
+
+<h3 align="left">🔮 About me :</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Phucmh98/Phucmh98/blob/main/git-banner.jpg">
 
-- 👨‍💻 I've worked at [**Central-cons**](https://www.centralcons.vn/) before.
-
-- ⚡ This is where I began learning programming to develop **MHP-tool**. 😅
+- 🎓 Graduated from University of Architecture Ho Chi Minh City, majoring in Civil Engineer.
+- 💻 Currently studying Information Technology at Thai Nguyen University.
+- 🌐 1+ year of experience in web development & Webpack  
+- 🖥️ Experienced in 3D modeling  
+- 🚀 Always eager to learn and highly responsible at work
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
