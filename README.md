@@ -6,7 +6,7 @@
 
 
 <h3 align="left">🔮 About me :</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Phucmh98/Phucmh98/blob/main/git-banner.jpg">
+<img align="right" alt="coding" width="300" src="https://github.com/Phucmh98/Phucmh98/blob/main/banner/titan-fall-lennin.jpg">
 
 - 🎓 Graduated from University of Architecture Ho Chi Minh City, majoring in Civil Engineer.
 - 💻 Currently studying Information Technology at Thai Nguyen University.
@@ -14,6 +14,10 @@
 - 🖥️ Experienced in 3D modeling  
 - 🚀 Always eager to learn and highly responsible at work
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
