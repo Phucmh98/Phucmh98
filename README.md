@@ -1,52 +1,65 @@
-<div class="image-container">
-  <img src="https://github.com/Phucmh98/Phucmh98/blob/main/git-banner-3.png" alt="logo" class="image">  
+<div align="center">
+  <img src="https://github.com/Phucmh98/Phucmh98/blob/main/git-banner-3.png" alt="logo" width="100%" />
 </div>
 
-<h1 align="center">✨✨Front-End Developer✨✨</h1>
+<h1 align="center">⚡️MHP⚡️</h1>
+<h3 align="center">🛠 Front-End Developer | Lover of Unique & Beautiful Web Experience 🤟</h3>
 
+---
 
-<h3 align="left">🔮 About me :</h3>
+## 🌌 A little about me:
+
 <img align="right" alt="coding" width="300" src="https://github.com/Phucmh98/Phucmh98/blob/main/banner/titan-fall-lennin.jpg">
 
-- 🎓 Graduated from University of Architecture Ho Chi Minh City, majoring in Civil Engineer.
-- 💻 Currently studying Information Technology at Thai Nguyen University.
-- 🌐 1+ year of experience in web development & Webpack  
-- 🖥️ Experienced in 3D modeling  
-- 🚀 Always eager to learn and highly responsible at work
+✨ On a Journey to Become a Pro Front-End Developer ✨  
+I believe the world is made better by the beauty of thoughtful design and the elegance of well-written code.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+- 🎓 Civil Engineer turned Web Developer
+- 📚 Currently a student majoring in IT at Thai Nguyen University
+- 🌐 1+ year coding, deploying & optimizing modern web applications
+- 🎨 Skilled in 3D modeling & interactive web design
+- 🚀 Passionate about crafting smooth, animated, and immersive digital experiences
 
-## 🛠️ Technology Stack
+---
 
-<h3 align="left">Algorithmic language:</h3>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/javascript.png" alt="javascript" height="40"/></a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/typescript.png" alt="typescript" height="40"/></a>   
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/cshape.png" alt="csharp" height="40"/> </a>
-<h3 align="left">Frontend Development:</h3>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/html.png" alt="html5" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/css.png" alt="css3" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/sass.png" alt="sass"  height="40"/> </a>  
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/bootstrap.png" alt="bootstrap" height="40"/> </a>  
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/tailwindcss.png" alt="tailwind" height="40"/> </a>
-<a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/ant.png" alt="antdesign" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/react.png" alt="react" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/nextjs.png" alt="nextjs" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/webpack.png" alt="webpack" height="40"/> </a>
-</p>
-<h3 align="left">Mobile App Development:</h3>
-<p align="left"> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/Group.png" alt="dart"  height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/flutter.png" alt="flutter" height="40"/> </a> 
+## 🛠️ Tech Arsenal:
+
+### 💻 Languages:
+<p>
+<img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/javascript.png" alt="javascript" height="40"/> 
+<img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/typescript.png" alt="typescript" height="40"/>
+<img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/cshape.png" alt="csharp" height="40"/>
 </p>
 
+### 🎨 Front-End:
+<p>
+<img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/html.png" height="40"/>
+<img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/css.png" height="40"/>
+<img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/sass.png" height="40"/>
+<img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/bootstrap.png" height="40"/>
+<img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/tailwindcss.png" height="40"/>
+<img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/ant.png" height="40"/>
+<img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/react.png" height="40"/>
+<img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/nextjs.png" height="40"/>
+<img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/webpack.png" height="40"/>
+</p>
 
+### 📱 Mobile Dev:
+<p>
+<img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/Group.png" height="40"/>
+<img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/flutter.png" height="40"/>
+</p>
+
+---
+
+## 💥 Currently Crushing On:
+- 🔥 Exploring **3D Web view** with Cesium open source
+- ⚙️ Diving deep into **Next.js App Router**
+- 🧠 Optimizing performance with **Webpack**
+
+---
+
+## 🌍 Let’s Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Phucmh98-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)
+
+---
