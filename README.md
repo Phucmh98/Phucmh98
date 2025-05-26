@@ -20,9 +20,11 @@ I believe the world is made better by the beauty of thoughtful design and the el
 - 🎨 Skilled in 3D modeling & interactive web design
 - 🚀 Passionate about crafting smooth, animated, and immersive digital experiences
 
----
+<br>
 
-## 🛠️ Tech Arsenal:
+
+### 🛠️ Tech Stack:
+---
 
 ### 💻 Languages:
 <p>
@@ -49,6 +51,8 @@ I believe the world is made better by the beauty of thoughtful design and the el
 <img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/Group.png" height="40"/>
 <img src="https://github.com/Phucmh98/Phucmh98/blob/main/tech/flutter.png" height="40"/>
 </p>
+
+
 
 ---
 
