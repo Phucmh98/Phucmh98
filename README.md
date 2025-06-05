@@ -22,9 +22,11 @@ I believe the world is made better by the beauty of thoughtful design and the el
 
 <br>
 
+### 💫 View:
 
-### 🛠️ Tech Stack:
----
+<img src="https://count.getloli.com/@Phucmh98?theme=3d-num" alt=":Phucmh98" />
+
+## 🛠️ Tech Stack:
 
 ### 💻 Languages:
 <p>
