@@ -16,7 +16,7 @@ I believe the world is made better by the beauty of thoughtful design and the el
 
 - 🎓 Civil Engineer turned Web Developer.
 - 📚 Currently a student majoring in IT at Thai Nguyen University.
-- 🌐 1+ year coding, deploying & optimizing modern web applications
+- 🌐 1+ year coding, deploying & optimizing modern web applications.
 - 🎨 Skilled in 3D modeling & interactive web design
 - 🚀 Passionate about crafting smooth, animated, and immersive digital experiences
 
