@@ -9,7 +9,7 @@
 
 ## 🌌 A little about me:
 
-<img align="right" alt="coding" width="300" src="https://github.com/Phucmh98/Phucmh98/blob/main/banner/titan-fall-lennin.jpg">
+<img align="right" alt="coding" width="300" src="https://github.com/Phucmh98/Phucmh98/blob/main/banner/titan-fall-lennin_cheems.png">
 
 ✨ On a Journey to Become a Pro Front-End Developer ✨  
 I believe the world is made better by the beauty of thoughtful design and the elegance of well-written code.
