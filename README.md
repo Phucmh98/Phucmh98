@@ -18,7 +18,7 @@ I believe the world is made better by the beauty of thoughtful design and the el
 - 🌐 1+ year coding, deploying & optimizing modern web applications.
 - 🎨 Skilled in 3D modeling & interactive web design.
 - 🚀 Passionate about crafting smooth, animated, and immersive digital experiences.
- 🎓 I graduated from the University of Architecture of Ho Chi Minh City and TN University-Information Technology.
+-🎓 I graduated from the University of Architecture of Ho Chi Minh City and TN University-Information Technology.
 <br>
 
 ### 💫 View:
