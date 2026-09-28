@@ -14,7 +14,7 @@
 ✨ On a Journey to Become a Pro Front-End Developer ✨  
 I believe the world is made better by the beauty of thoughtful design and the elegance of well-written code.
 
-- 🎓 I work as both a Civil engineer and a Web Developer
+- 🎓 I work as both a Civil engineer and a Web Developer.
 - 🌐 1+ year coding, deploying & optimizing modern web applications.
 - 🎨 Skilled in 3D modeling & interactive web design.
 - 🚀 Passionate about crafting smooth, animated, and immersive digital experiences.
